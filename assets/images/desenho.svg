@@ -1,4 +1,6 @@
-<svg width="1000" height="1000" viewBox="10 10 250 200" style="background-color:" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+<svg width="1000" height="1000" viewBox="-20 20 300 250" style="background-color:" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+
+    <circle cx="130" cy="120" r="100" fill="#6F8C31"/>
 
     <polygon 
         style="fill:#525461; stroke:#525461; stroke-width:0.3" 
@@ -162,7 +164,6 @@
 
     <polygon 
         style="fill:#b57a56; stroke:#b57a56; stroke-width:0.3"
-        
         points="157,90 154,99 161,105 166,103 165,94 160,88">
     </polygon>
 
@@ -173,7 +174,6 @@
 
     <polygon 
         style="fill:#5b5d56; stroke:#5b5d56; stroke-width:0.3"
-        
         points="126,138 118,153 101,163 101,159 91,162 88,155 114,131">
     </polygon>
 
@@ -184,7 +184,6 @@
 
     <polygon 
         style="fill:#c1885e; stroke:#c1885e; stroke-width:0.3"
-        
         points="138,114 130,123 131,126 135,127 137,125 137,122 142,115">
     </polygon>
 
@@ -230,15 +229,13 @@
     </polygon>
 
     <polygon 
-        style="fill:#5c6252; stroke:#5c6252; stroke-width:0.3"
-        
-        points="118.7,108.5,108.9,124.4,103.6,127.5,101.9,122.9,104,122.1,113.6,109.9,118.7,108.5">
+        style="fill:#5c6252; stroke:#5c6252; stroke-width:0.3" 
+        points="119,109 109,124 104,128 102,123 104,122 114,110 119,109">
     </polygon>
 
     <polygon 
         style="fill:#434b3f; stroke:#434b3f; stroke-width:0.3"
-        
-        points="113.4,131.7,87.2,155.7,80,158.9,80.7,153.2,102.9,126,103.5,127.3,107.4,125.3,109.6,133.4,113.4,131.7">
+        points="113,132 87,156 80,159 81,153 103,126 104,127 107,125 110,133">
     </polygon>
 
 
@@ -248,13 +245,12 @@
     </polygon>
 
     <polygon 
-        style="fill:#6c7a68; stroke:#6c7a68; stroke-width:0.3"
-        
-        points="126.4,105.4,115.6,130.3,109.8,133.7,107.4,125.4,109.1,124.1,119.4,107.6,126.4,105.4">
+        style="fill:#6c7a68; stroke:#6c7a68; stroke-width:0.3" 
+        points="126,105 116,130 110,134 107,125 109,124 119,108 126,105">
     </polygon>
 
     <polygon 
-        style="fill:#708480; stroke:#708480; stroke-width:0.3" 
+        style="fill:#859480; stroke:#859480; stroke-width:0.3" 
         points="116,102 103,110 110,112 130,104 128,99">
     </polygon>
 
@@ -265,11 +261,11 @@
 
     <polygon 
         style="fill:#2a292e; stroke:#2a292e; stroke-width:0.3" 
-        points="162,63 161,67 167,70 171,67 169,63 167,62">
+        points="162,63 161,67 167,70 171,67 167,62">
     </polygon>
 
     <polygon 
-        style="fill:#7793a1; stroke:#7793a1; stroke-width:0.3" 
+        style="fill:#859480; stroke:#859480; stroke-width:0.3" 
         points="26,96 27,90 32,92 65,130 55,130">
     </polygon>
 
@@ -284,7 +280,7 @@
     </polygon>
 
     <polygon 
-        style="fill:#6e918a; stroke:#6e918a; stroke-width:0.3" 
+        style="fill:#6c7a68; stroke:#6c7a68; stroke-width:0.3" 
         points="23,90 24,97 49,129 57,124 27,92">
     </polygon>
 
@@ -310,7 +306,7 @@
     </polygon>
 
     <polygon 
-        style="fill:#4a5b59; stroke:#4a5b59; stroke-width:0.3" 
+        style="fill:#606c5b; stroke:#606c5b; stroke-width:0.3" 
         points="72,143 72,154 76,153 100,124 96,124">
     </polygon>
 
@@ -320,7 +316,7 @@
     </polygon>
 
     <polygon 
-        style="fill:#1d2225; stroke:#1d2225; stroke-width:0.3" 
+        style="fill:#242e2b; stroke:#242e2b; stroke-width:0.3" 
         points="62,167 49,184 73,170">
     </polygon>
 

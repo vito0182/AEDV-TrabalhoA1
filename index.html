@@ -1,135 +1,123 @@
 <!DOCTYPE html>
-<html>
-<!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Parte B</title>
-    <style>
-        body {
-            padding: 64px;
-        }
+    
 
-        .container {
-            margin: 0 auto;
-            display: flex;
-        }
-
-        .box1 {
-            width: 40vw;
-            border: 2px solid #333;
-            border-radius: 0px 32px 32px 0px;
-            padding: 32px;
-        }
-
-        hr {
-            margin-top: 32px;
-        }
-
-        img {
-            border-radius: 16px;
-            display: block;
-            width: 100%;
-            height: auto;
-        }
-
-        p {
-            padding: 16px 0 16px 0;
-            border-radius: 16px;
-            font-size: 16px;
-            line-height: 1.5;
-            text-align: justify;
-            margin-bottom: 20px;
-        }
-    </style>
-</head>
+    <head>
+        <link rel="stylesheet" type="text/css" href="./assets/css/styles.css">
+    </head>
 
 <body>
-    <div class="container">
-        <div class="box1">
-
+    <div id="fixed-box">
+        <div id="inner-fixed-box">
             <h1><b>Amazon Kingfisher desenhado em SVG</b></h1>
-            
             <p>
-                Para esta parte do trabalho, escolhi fazer um desenho de uma das minhas aves favoritas. O Amazon Kingfisher.
-            </p>
-
-            <hr>
-
-            <h2>Sobre o Amazon Kingfisher</h2>
-
-            <p>
-                O Amazon Kingfisher (<i>martim-pescador-verde</i>), é uma espécie de ave encontrado em grande parte da
-                América
-                do Sul. Ele possui uma plumagem brilhante e colorida, com asas e cauda azuis-verde e peito laranja
-                brilhante, cabeça é azul-esverdeada com uma
-                mancha branca na garganta, e seu bico é longo e afiado.
-            </p>
-            <p>
-                Como o nome sugere, o martim-pescador-verde é especialista em pesca, e é frequentemente visto perto de
-                rios, lagos e córregos. Ele é capaz de mergulhar na água em busca de peixes, crustáceos e outros animais
-                aquáticos.
-            </p>
-
-            <img src="./assets/images/AmazonKingfisher.jpg" alt="">
-
-            <hr>
-            <h2>Construção do desenho em SVG</h2>
-            <p>
-                Para construir o desenho em SVG, primeiro escolhi uma imagem do <a
-                    href="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/233760081/1800" target="_blank">Amazon
-                    Kingfisher</a> (imagem acima) e depois a converti para SVG utilizando uma ferramenta do Adobe
-                Express: <a href="https://www.adobe.com/br/express/feature/image/convert/png-to-svg"
-                    target="_blank">Converter
-                    PNG
-                    em SVG</a>. Depois disso, carreguei a imagem convertida no VS Cde e utilizei a
-                extensão "SVG" para criar e visualizar polígonos, que mais tarde iram formar o desenho.
-            </p>
-
-            <img src="./assets/images/Poligonos.png" alt="">
-
-            <p>
-                A extensão disponibiliza uma régua e cursor especial, o que permite indentificar as coordenadas dos
-                polígonos a serem criado com maior facilidade. É possível notar alguns polígonos que se sobrepõem na
-                imagem acima, mas isso não será um problema pois ao colorir os polígonos não será possível notar a
-                sobreposição.
-            </p>
-
-            <img src="./assets/images/PoligonosBlack.png">
-
-            <hr>
-
-            <h2>Escolha da palheta de cores</h2>
-
-            <p>
-                Para escolher a palheta de cores, removi o fundo da imagem original do Amazon Kingfisher e extraí a
-                palheta de cores utilizando o <a href="https://color.adobe.com/">Adobe Color</a>. Utilizando a mesma
-                ferramenta, obtive cores análogas e sombras para colorir cada polígono com diferentes tons.
-            </p>
-
-            <img src="./assets/images/Palheta-de-cores.png" alt="">
-
-            <p>
-                Já com a palheta de cores, o próximo passo foi colorir cada polígono 
-            </p>
-
-            <img src="./assets/images/PoligonosCor.png" alt="">
-
-            <hr>    
-            <h2>Resultado Final</h2>
-            <p>
-                Por fim, adiciono as respectivas cores às borda de cada polígono. Obtendo o seguinte resultado:
+                Desenho da ave Amazon Kingfisher feito em SVG. O desenho é formado por 70 polígonos e 1 círculo.
             </p>
 
             <img src="./assets/images/desenho.svg" alt="">
 
         </div>
-        
     </div>
+    <div id="scrollable-box">
+        <h1><b>Amazon Kingfisher desenhado em SVG</b></h1>
 
+        <p>
+            Para esta parte do trabalho, escolhi fazer um desenho de uma das minhas aves favoritas. O Amazon
+            Kingfisher.
+        </p>
 
+        <hr>
+
+        <h2>Sobre o Amazon Kingfisher</h2>
+
+        <p>
+            O Amazon Kingfisher (<i>martim-pescador-verde</i>), é uma espécie de ave encontrado em grande parte da
+            América
+            do Sul. Ele possui uma plumagem brilhante e colorida, com asas e cauda azuis-verde e peito laranja
+            brilhante, cabeça é azul-esverdeada com uma
+            mancha branca na garganta, e seu bico é longo e afiado.
+        </p>
+
+        <p>
+            Como o nome sugere, o martim-pescador-verde é especialista em pesca, e é frequentemente visto perto de
+            rios, lagos e córregos. Ele é capaz de mergulhar na água em busca de peixes, crustáceos e outros animais
+            aquáticos.
+        </p>
+
+        <img src="./assets/images/AmazonKingfisher.jpg" alt="">
+
+        <hr>
+        <h2>Construção do desenho em SVG</h2>
+        <p>
+            Para construir o desenho em SVG, primeiro escolhi uma imagem do <a
+                href="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/233760081/1800" target="_blank">Amazon
+                Kingfisher</a> (imagem acima) e depois a converti para SVG utilizando uma ferramenta do Adobe
+            Express: <a href="https://www.adobe.com/br/express/feature/image/convert/png-to-svg"
+                target="_blank">Converter
+                PNG
+                em SVG</a>. Depois disso, carreguei a imagem convertida no VS Cde e utilizei a
+            extensão "SVG" para criar e visualizar polígonos, que mais tarde iram formar o desenho.
+        </p>
+
+        <img src="./assets/images/Poligonos.png" alt="">
+
+        <p>
+            A extensão disponibiliza uma régua e cursor especial, o que permite indentificar as coordenadas dos
+            polígonos a serem criado com maior facilidade. É possível notar alguns polígonos que se sobrepõem na
+            imagem acima, mas isso não será um problema pois ao colorir os polígonos não será possível notar a
+            sobreposição.
+        </p>
+
+        <img src="./assets/images/PoligonosBlack.png">
+
+        <p>
+            Agora adiciono um círculo com centro aproximadamente no meio do desenho.
+        </p>
+        <img src="./assets/images/PoligonosCirculo.png" alt="">
+
+        <hr>
+
+        <h2>Escolha da paleta de cores</h2>
+
+        <p>
+            Para escolher a paleta de cores, removi o fundo da imagem original do Amazon Kingfisher e extraí a
+            paleta de cores utilizando o <a href="https://color.adobe.com/">Adobe Color</a>. Utilizando a mesma
+            ferramenta, obtive cores análogas e sombras para colorir cada polígono com diferentes tons, conforme o que
+            parecia mais adequado para cada polígono.
+        </p>
+
+        <img src="./assets/images/paleta-de-cores.png" alt="">
+        <img src="./assets/images/paleta1.png" alt="">
+        <img src="./assets/images/paleta2.png" alt="">
+        <img src="./assets/images/paleta3.png" alt="">
+
+        <p>
+            Já com a paleta de cores, o próximo passo foi colorir cada polígono.
+        </p>
+
+        <img src="./assets/images/PoligonosCor.png" alt="">
+
+        <p>
+            Para colorir o círculo, selecionei uma cor que aparecia no fundo da imagem de referência e de modo que tal
+            cor fosse harmônica com as outras cores utilizadas. E por fim colori as linhas de cada polígono com a mesma
+            cor do polígono em questão. É importante fazer isso ao invés de apagar as linhas pois caso contrario
+            existiriam "vãos" entre alguns dos polígonos.
+        </p>
+
+        <hr>
+        <h2>Resultado Final</h2>
+        <p>
+            Por fim, adiciono as respectivas cores às bordas de cada polígono e obtenho o resultado à esquerda.
+            <br>
+            <br>
+            *obs: Algumas cores utilizadas para atingir o resultado final variam ligeiramente das cores encontradas no
+            Adobe Color.
+        </p>
+    </div>
 </body>
-
-</html>

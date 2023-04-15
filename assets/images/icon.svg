@@ -1,0 +1,153 @@
+<svg width="1000" height="1000" viewBox="100 35 150 110" style="background-color:" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+
+
+    <circle cx="160" cy="90" r="55" style="fill:#ff5e"/>
+
+    <polygon 
+        style="fill:#323339; stroke:#323339; stroke-width:0.3" 
+        points="215,78 220,84 244,82">
+    </polygon>
+
+    <polygon 
+        style="fill:#252628; stroke:#252628; stroke-width:0.3" 
+        points="215,78 173,75 178,79 172,82 220,84">
+    </polygon>
+
+    <polygon 
+        style="fill:#777f94; stroke:#777f94; stroke-width:0.3" 
+        points="216,72 211,78 247,83 216,72">
+    </polygon>
+
+    <polygon 
+        style="fill:#5b606c; stroke:#5b606c; stroke-width:0.3" 
+        points="216,72 189,66 180,62 188,68 167,75 211,78">
+    </polygon>
+
+    <polygon 
+        style="fill:#757a69; stroke:#757a69; stroke-width:0.3" 
+        points="188,68 178,60 167,62">
+    </polygon>
+
+    <polygon 
+        style="fill:#4e5248; stroke:#4e5248; stroke-width:0.3" 
+        points="167,62 125,41 178,60">
+    </polygon>
+
+    <polygon 
+        style="fill:#373932; stroke:#373932; stroke-width:0.3" 
+        points="167,62 171,67 167,70 188,68">
+    </polygon>
+
+    <polygon 
+        style="fill:#626c61; stroke:#626c61; stroke-width:0.3" 
+        points="167,70 161,67 167,75 188,68">
+    </polygon>
+
+    <polygon 
+        style="fill:#5e6459; stroke:#5e6459; stroke-width:0.3" 
+        points="167,62 162,63 161,67 147,65 153,55">
+    </polygon>
+
+    <polygon 
+        style="fill:#38464a; stroke:#38464a; stroke-width:0.3" 
+        points="121,70 115,81 135,82">
+    </polygon>
+
+    <polygon 
+        style="fill:#38464a; stroke:#38464a; stroke-width:0.3" 
+        points="130,60 119,70 135,82 ">
+    </polygon>
+
+    <polygon 
+        style="fill:#594e46; stroke:#594e46; stroke-width:0.3" 
+        points="135,82 125,60 147,65">
+    </polygon>
+
+    <polygon 
+        style="fill:#3f4846; stroke:#3f4846; stroke-width:0.3" 
+        points="147,65 128,58 121,60 125,61 119,66">
+    </polygon>
+
+    <polygon 
+        style="fill:#565b58; stroke:#565b58; stroke-width:0.3" 
+        points="147,65 126,51 117,48 126,55 116,54">
+    </polygon>
+
+    <polygon 
+        style="fill:#676c61; stroke:#676c61; stroke-width:0.3" 
+        points="147,65 126,51 119,41 126,44 125,41 153,55">
+    </polygon>
+
+    <polygon 
+        style="fill:#6d7666; stroke:#6d7666; stroke-width:0.3" 
+        points="147,65 149,79 149,79 168,75 161,67">
+    </polygon>
+
+    <polygon 
+        style="fill:#72796c; stroke:#72796c; stroke-width:0.3" 
+        points="149,79 172,82 178,79 174,75 168,75">
+    </polygon>
+
+    <polygon 
+        style="fill:#594f47; stroke:#594f47; stroke-width:0.3" 
+        points="149,79 135,82 147,65">
+    </polygon>
+
+    <polygon 
+        style="fill:#242e2b; stroke:#242e2b; stroke-width:0.3" 
+        points="116,86 117,99 135,82">
+    </polygon>
+
+    <polygon 
+        style="fill:#3b4646; stroke:#3b4646; stroke-width:0.3" 
+        points="117,81 114,87 135,82">
+    </polygon>
+
+    <polygon 
+        style="fill:#c1885e; stroke:#c1885e; stroke-width:0.3" 
+        points="165,102 166,114 163,123 157,114 158,102">
+    </polygon>
+
+    <polygon 
+        style="fill:#aa6840; stroke:#aa6840; stroke-width:0.3" 
+        points="154,99 150,110 152,116 159,113 159,99">
+    </polygon>
+
+    <polygon 
+        style="fill:#b57a56; stroke:#b57a56; stroke-width:0.3"
+        points="157,90 154,99 161,105 166,103 165,94 160,88">
+    </polygon>
+
+
+    <polygon 
+        style="fill:#b47148; stroke:#b47148; stroke-width:0.3" 
+        points="141,96 142,105 145,110 152,108 155,95">
+    </polygon>
+
+    <polygon 
+        style="fill:#7c8975; stroke:#7c8975; stroke-width:0.3" 
+        points="147,98 149,102 156,98 158,89">
+    </polygon>
+
+    <polygon 
+        style="fill:#e0e9ee; stroke:#e0e9ee; stroke-width:0.3"
+        
+        points="117,99 116,103 129,100 133,91 140,99 147,91 147,98 160,88 165,94 169,87 192,83 149,79 135,82">
+    </polygon>
+
+    <polygon 
+        style="fill:#859480; stroke:#859480; stroke-width:0.3" 
+        points="140,99 143,102 148,98 147,91">
+    </polygon>
+
+    <polygon 
+        style="fill:#737e72; stroke:#737e72; stroke-width:0.3" 
+        points="133,109 142,106 142,101 133,91 126,100">
+    </polygon>
+
+    <polygon 
+        style="fill:#2a292e; stroke:#2a292e; stroke-width:0.3" 
+        points="162,63 161,67 167,70 171,67 167,62">
+    </polygon>
+
+</svg>
